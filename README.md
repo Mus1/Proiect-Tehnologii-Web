@@ -22,3 +22,4 @@ Acesta poate fi folositor si oamenilor care nu stiu la ce sa se uite si cauta re
    - LetterBoxd
    - Metacritic ( conceput si pentru jocuri video si muzica )
 
+   ![](https://github.com/Mus1/Proiect-Tehnologii-Web/blob/master/WhatsApp%20Image%202018-11-04%20at%2013.25.17.jpeg?raw=true)
