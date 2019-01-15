@@ -1,25 +1,22 @@
-# Manager de filme favorite integrat cu TMDB
+
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
 
 
-Acest produs a fost creat din dorinta de a oferi iubitorilor de filme si seriale un “tool” care sa ii ajute sa fie mai organizati in ceea ce priveste pasiunea acestora, folosindu-ne de TMDB “The Movie Database”pentru a putea procura informatiile necesare. Astfel, putem raspunde la urmatoarele intrebari:
-1.	Care este principala nevoie / problema pe care o rezolva produsul vostru ?   
+Welcome to your Node.js project on Cloud9 IDE!
 
-     Principala nevoie pe care acesta o satisface este aceea de a ajuta utilizatorii in a-si mentine o evidenta si ierarhie a filmelor si serialelor urmarite, reusind astfel sa-si creeze propriul top, sa isi organizeze filmele pe categorii, sa isi creeze o lista cu filmele pe care ar dori sa le vizioneze in viitor.   
-     
-2.	Carui tip de utilizatori se adreseaza produsul vostru ?   
+This chat example showcases how to use `socket.io` with a static `express` server.
 
-      Produsul nostru se adreseaza in primul rand iubitorilor de filme si seriale, persoanelor care doresc sa mentina o baza de date a filmelor / serialelor vizualizate si sa isi exprime parerea prin intermediul review-urilor.
-Se adreseaza, de asemenea, si oamenilor pasionati de tehnologie, curiosi, dornici sa afle mai multe informatii despre productiile lor favorite precum review-uri, ratings ,trailers ,dar si cast-ul acestora.
-Acesta poate fi folositor si oamenilor care nu stiu la ce sa se uite si cauta recomandari bazate pe genul filmului/ serialului, actorii sau regizorii preferati.
+## Running the server
 
-3.	Ce alte produse similare exista in piata?
+1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
 
-      Produse similare, deja existente pe piata, sunt: 
-   - IMDB ( “Internet Movie Database” )
-   - Cinemagia ( produs romanesc )
-   - Rottentomatoes
-   - AllMovie
-   - LetterBoxd
-   - Metacritic ( conceput si pentru jocuri video si muzica )
+2) Alternatively you can launch the app from the Terminal:
 
-   ![](https://github.com/Mus1/Proiect-Tehnologii-Web/blob/master/WhatsApp%20Image%202018-11-04%20at%2013.25.17.jpeg?raw=true)
+    $ node server.js
+
+Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
